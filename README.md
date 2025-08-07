@@ -1,4 +1,4 @@
-# SynoTorrent Automation Script
+# py-SynoTorrent
 
 A Python automation tool that searches for movies on **[YTS.mx](https://yts.mx)**, fetches the best available magnet links, and sends them directly to your **Synology NAS Download Station**.
 
