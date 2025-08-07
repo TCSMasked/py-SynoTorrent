@@ -1,0 +1,8 @@
+{
+    "NAS": {
+        "ip": "http://your-ip-here",
+        "port": 5000,
+        "username": "your-username-here",
+        "password": "your-password-here"
+    }
+}
